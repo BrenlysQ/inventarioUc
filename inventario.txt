@@ -1,0 +1,13 @@
+* correctivo o preventivo (HAY QUE RECARGAR LA PAGINA y LO AGARRA)
+
+*lapto no me lee 
+Procesador velocidad
+Memoria Capacidad: N/P
+Memoria Tipo: N/P
+Disco Duro Capacidad: N/P
+Disco Duro Tipo: N/P
+
+*pc procesador marca
+
+*fecha no lo lee ninguno en bd
+*fecha tipo calendario
